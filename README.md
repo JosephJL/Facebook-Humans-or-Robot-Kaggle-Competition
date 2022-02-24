@@ -1,6 +1,7 @@
 # Facebook-Humans-or-Robot-Kaggle-Competition\
 ## Introduction
-First Machine Learning Competition (Late Submission). <br>
+First Machine Learning Competition (Late Submission). <br> 
+https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
 ### Results 
 Private score of 0.90641 <br>
 Public score of 0.89041 <br>
